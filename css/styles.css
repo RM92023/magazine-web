@@ -85,6 +85,13 @@ body {
     font-size: 0.9rem;
 }
 
+
+.header_navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .navbar_image img{
     width:64px;
     object-fit: contain;
