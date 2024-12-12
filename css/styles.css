@@ -90,9 +90,59 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 
 .navbar_image img{
     width:64px;
     object-fit: contain;
 }
+=======
+    margin: 0px 15px;
+}
+
+.navbar_image img{
+    width:94px;
+    object-fit: contain;
+}
+
+.navbar_navigation ul{
+display: flex;
+
+}
+
+.navbar_navigation ul li{
+    margin: 15px 30px;
+    list-style: none;
+    
+
+}
+
+.navbar_navigation ul li a{
+text-decoration: none;
+color: #666;
+font-size: 17px;
+font-weight: 400;
+
+}
+
+.navbar_navigation ul li a:hover{
+    border-bottom: solid 1px #2c2c2c;
+    color: #333;
+    }
+
+.navbar_button button{
+
+    background-color: #1c1c1c;
+    color: white;
+    width: 180px;
+    height: 60px;
+    font-size: 16px;
+}
+
+.navbar_button button:hover{
+    cursor: pointer;
+    background-color: white;
+    color: #1c1c1c;
+}
+
