@@ -196,3 +196,19 @@ body {
     background-color: #e0a800;
   }
   
+  .footer-bottom {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 0.8rem;
+  }
+  
+  .footer-bottom ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-bottom li {
+    display: inline-block;
+    margin: 0 10px;
+  }
