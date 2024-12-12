@@ -90,6 +90,14 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+}
+
+.navbar_image img{
+    width:64px;
+    object-fit: contain;
+}
+=======
     margin: 0px 15px;
 }
 
