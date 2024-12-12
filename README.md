@@ -24,7 +24,7 @@ https://rm92023.github.io/magazine-web/
 
 Descripción gráfica de nuestras ramas en el proyecto
 
-![alt text](https://cdn.discordapp.com/attachments/1316444508136935484/1316570717747150968/image.png?ex=675b8787&is=675a3607&hm=7f30507211f866d16e985724aa9e65f02e4f2e31d80fb27a1d453824315f4f76&)
+![alt text](https://media.discordapp.net/attachments/1316444508136935484/1316777120155963472/image.png?ex=675c47c1&is=675af641&hm=52c58feec15dc506930e77c856e21a712140ec5a56f8bc21ae58f325dd878698&=&format=webp&quality=lossless&width=1241&height=585)
 
 
 
