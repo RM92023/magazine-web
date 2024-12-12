@@ -175,7 +175,24 @@ body {
     color: #ccc;
   }
   
+
+  
   .footer-action {
     text-align: center;
+  }
+  
+  .btn-revisar {
+    background-color: #ffc107;
+    color: #111;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-revisar:hover {
+    background-color: #e0a800;
   }
   
